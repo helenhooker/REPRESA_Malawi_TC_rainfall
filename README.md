@@ -1,6 +1,6 @@
-# ☔ REPRESA Mozambique: TC Rainfall Analysis & Evaluation
+# ☔ REPRESA Malawi: TC Rainfall Analysis & Evaluation
 
-Training materials for analysing and evaluating Tropical Cyclone rainfall datasets in Mozambique.
+Training materials for analysing and evaluating Tropical Cyclone rainfall datasets in Malawi.
 
 **Developed by:** Dr Helen Hooker, University of Reading  
 **Project:** REPRESA
@@ -21,7 +21,7 @@ We will be using **Google Colab** for this training. You do not need to install 
 
 Click the badge below to launch the training notebook:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/helenhooker/REPRESA_Mozambique_TC_rainfall/blob/main/Cyclone_rainfall_colab_en.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/helenhooker/REPRESA_Malawi_TC_rainfall/blob/main/Cyclone_rainfall_colab_en.ipynb)
 
 ### Step 2: Save Your Own Copy
 
